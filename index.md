@@ -84,7 +84,6 @@
   <h2>All Commands</h2>
   <div class="accordion">
          
-    <! --- If you want more just copy the following code from here -- >
           <div class="accordion-item">
       <button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">How to setup the bot?</span><span class="icon" aria-hidden="true"></span></button>
       <div class="accordion-content">
