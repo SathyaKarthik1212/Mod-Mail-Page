@@ -121,5 +121,3 @@
     <script src="assets/js/Counting.js"></script>
     <script src="assets/js/untitled.js"></script>
 </body>
-
-</html>
